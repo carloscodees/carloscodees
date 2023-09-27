@@ -1,7 +1,5 @@
 ## Hi, I'm Carlos! 👋
 
-![gif](https://i.pinimg.com/originals/74/72/34/7472349a990e2e2cf0124eafc9b5faf0.gif)
-
 ### Technologies I work with:
 
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -21,3 +19,4 @@
 - Trello ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 - Jira ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 - Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![gif](https://i.pinimg.com/originals/74/72/34/7472349a990e2e2cf0124eafc9b5faf0.gif)
