@@ -1,21 +1,28 @@
-## Hi, I'm Carlos! 👋
+# Carlos — Full-Stack Web Engineer
+---
+## Core Stack
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=5FA04E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?logo=tailwindcss&logoColor=06B6D4)
 
-### Technologies I work with:
+### Also experienced with
+![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel&logoColor=FF2D20)
+![WordPress](https://img.shields.io/badge/WordPress-000?logo=wordpress&logoColor=21759B)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032)
+![Jira](https://img.shields.io/badge/Jira-000?logo=jira&logoColor=0052CC)
+![Trello](https://img.shields.io/badge/Trello-000?logo=trello&logoColor=026AA7)
 
-- PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- WordPress ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-- Laravel ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- Symfony ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-- AngularJS ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- Bootstrap ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-- CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+---
 
-### Tools I use:
+## What I Build
+- **Front-end**: Next.js (SSR/ISR), accessible UI, scalable component systems; state with **Zustand/RTK**; forms with **React Hook Form + Zod**.
+- **Back-end**: REST APIs (Node/Express or PHP/Laravel), **JWT auth**, third-party integrations.
+- **Architecture**: clean modules, pragmatic testing (Vitest/Jest), CI/CD, observability; performance budgets & bundle analysis.
+- **Product**: experiment-driven delivery, analytics, SEO, and measurable impact.
 
-- Scrum ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white)
-- Trello ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-- Jira ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-- Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
