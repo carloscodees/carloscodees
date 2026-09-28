@@ -1,4 +1,4 @@
-# Carlos — Full-Stack Web Engineer
+# Carlos  Full-Stack Web Engineer
 ---
 ## Core Stack
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB)
